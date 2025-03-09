@@ -3,3 +3,4 @@ Resolusi:
 - Develop live Patroll System
 - Convert KJ to dynamic Web
 - Change KJ to Python platform
+- Extend Hosting
