@@ -2,3 +2,4 @@ Resolusi:
 - Improve Master Key Control System
 - Develop live Patroll System
 - Convert KJ to dynamic Web
+- Extend the hosting to 2026
