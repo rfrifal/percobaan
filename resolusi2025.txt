@@ -1,0 +1,3 @@
+Resolusi:
+- Improve Master Key Control System
+- Develop live Patroll System
